@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHUzb3dpbW9kNWV3c3E5YnI3d3A1YzAwNjg5Y21uMHJ0ZXhjanM0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF of woman coding">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="GIF of woman coding">
   <br>
-  <a href="https://www.codewars.com/users/henderson907"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Code Wars button"/> 
+  <a href="https://www.codewars.com/users/Gathie"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Code Wars button"/> 
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gkrishnan48/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linked In Button"/></a>
