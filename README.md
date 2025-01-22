@@ -17,7 +17,7 @@ Front-end web developer looking to expand my skills 💪
 
 ### 📚 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,heroku,cypress,js,sql,html,css,scss" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,ruby,rails,heroku,cypress,js,mysql,html,css,tailwind" alt="Tech Stack Icons">
 </div>
 
 ### 🔥 GitHub Stats
