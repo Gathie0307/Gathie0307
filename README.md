@@ -13,7 +13,7 @@
 Front-end web developer looking to expand my skills 💪
 - 🏡 Currently based in the London, United Kingdom 
 - 🧑‍🦽 Passionate about building Front-end products with great user experience
-- 🌱 Currently learning Next.js
+- 🌱 Currently learning ReactJS(Redux, React State and React Hooks)
 
 ### 📚 Tech Stack
 <div align="center">
